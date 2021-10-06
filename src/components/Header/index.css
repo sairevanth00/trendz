@@ -1,0 +1,32 @@
+/* Write your CSS code here */
+.headerCon {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100vw;
+  height: auto;
+}
+.logoCon {
+  padding: 3px;
+}
+.logoImg {
+  height: 10px;
+  width: 15px;
+}
+.routLinksCon {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.routsTxt {
+  color: #475569;
+  font-family: 'Roboto';
+}
+.logoutBtn {
+  background-color: #0b69ff;
+  border: 0px;
+  color: white;
+  padding: 10px;
+  font-family: 'Roboto';
+}

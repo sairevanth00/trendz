@@ -1,0 +1,53 @@
+/* Write your CSS code here */
+.loginMainCon {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  min-height: 100vh;
+}
+.loginImg {
+  height: 80vh;
+  width: 100%;
+  padding: 10px;
+}
+.formMainCon {
+  padding: 15px;
+}
+.formElCon {
+  padding: 20px;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+.formImgCon {
+  text-align: center;
+}
+.formImg {
+  height: 12px;
+  width: auto;
+}
+.inputElDecor {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 13px;
+  font-family: 'Roboto';
+  margin-bottom: 5px;
+  width: 100px;
+}
+.inputEl {
+  background-color: #d7dfe9;
+  border: 0px;
+  font-family: 'Roboto';
+  padding-left: 10px;
+  width: 100%;
+}
+.loginBtn {
+  background-color: #0b69ff;
+  border: 0px;
+  color: white;
+  padding: 10px;
+  font-family: 'Roboto';
+  width: 100px;
+}

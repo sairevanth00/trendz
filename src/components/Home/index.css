@@ -1,0 +1,35 @@
+/* Write your CSS code here */
+.mainContainer {
+  padding-left: 15px;
+  padding-right: 15px;
+  min-height: 100vh;
+}
+.homeContentCon {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.homeContentCon {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.mainHeading {
+  color: #1e293b;
+  font-family: 'Roboto';
+}
+.description {
+  color: #64748b;
+  font-family: 'Roboto';
+}
+.shopNowBtn {
+  background-color: #0b69ff;
+  border: 0px;
+  color: white;
+  padding: 10px;
+  font-family: 'Roboto';
+}
+.trendsImg {
+  height: 80%;
+  width: 100%;
+}
